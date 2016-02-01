@@ -12,4 +12,8 @@ public class Test {
 	public int getInt() {
 		return 1;
 	}
+
+	public double getDouble() {
+		return 1.25:
+	}
 }
