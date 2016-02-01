@@ -2,7 +2,7 @@ public class Test {
 	private String gitTest;
 
 	public Test() {
-		gitTest = "Git Test Test Test";
+		gitTest = "Git Test Test";
 	}
 
 	public String getGitTest() {
@@ -15,5 +15,7 @@ public class Test {
 
 	public double getDouble() {
 		return 1.25:
+	public void setGitTest(Stirng gitTest) {
+		this.gitTest = gitTest;
 	}
 }
