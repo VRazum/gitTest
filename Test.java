@@ -2,7 +2,7 @@ public class Test {
 	private String gitTest;
 
 	public Test() {
-		gitTest = "Git Test Test";
+		gitTest = "Git Test Test1";
 	}
 
 	public String getGitTest() {
